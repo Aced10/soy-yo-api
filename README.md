@@ -9,3 +9,7 @@
 # Para ejcutar test unitarios
 # 1. Repetir los primeros tres pasos (Para ejecutar).
 # 2. En la terminal ejecutar el comando "npm test".
+
+# Para creación de imagen
+# 1. Ir a la raiz del proyecto
+# 2. Ejecutar comando (docker build . -t co.com.soyyo.entity.filter-dev-1_0_0)
